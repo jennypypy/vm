@@ -28,7 +28,7 @@ new Vue({
 * multiline: Boolean 是否为多行文本，默认单行文本
 * label: String text标题
 * placeholder: String 
-* readonly: Boolean 是否为多行文本，默认单行文本
+* readonly: Boolean 是否可读，默认可读可写
 * clearable: Boolean 是否启用清除内容icon
 * value: String 可直接使用v-model对其进行双向绑定
 
